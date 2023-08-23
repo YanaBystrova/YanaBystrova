@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About me:
 
-My name is Yana and i am beginner Engineer QA. Here I want to share some web and mobile testing portfolio items gained during my studies and current internships.
+My name is Yana and I am a beginner manual tester. Here I will share my acquired skills in web and mobile application testing.
 
 - 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-@yanabystrova-blue?style=flat&logo=LinkedIn&logoColor=white)](https://github.com/yanabystrova) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:Yanabyst24@gmail.com)
 
