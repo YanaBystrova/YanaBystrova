@@ -23,6 +23,10 @@ My name is Yana and i am beginner Engineer QA. Here I want to share some web and
     <a href="https://t.me/Yankinss2701" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
+    <a href="https://www.facebook.com/jana.bystrova/" target="_blank">
+      <img src="https://img.icons8.com/officel/40/facebook-new.png" width="40" height="40" alt="fcebook" />
+    </a>
+    
   </div>
 
 ---
