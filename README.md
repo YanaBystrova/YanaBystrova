@@ -9,6 +9,7 @@
 ### 👨‍💻 About me:
 
 My name is Yana and I am a beginner manual tester. Here I will share my acquired skills in web and mobile application testing.
+Welcome collaboration 👌 and exchange of new skills ☺️
 
 - 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-@yanabystrova-blue?style=flat&logo=LinkedIn&logoColor=white)](https://github.com/yanabystrova) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:Yanabyst24@gmail.com)
 
