@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/yanabystrova/YanaBystrova/assets/142596973/090312bc-657d-4039-b784-d39c39d4a308" width="600" height="300"/>
+  <img src="https://as2.ftcdn.net/v2/jpg/03/31/68/27/1000_F_331682758_k2dzIdzGk2sOyy1bP0Hr7dJE9pQfBt9l.jpg" />
 </div>
 
 # 👐 Hello everyone!
