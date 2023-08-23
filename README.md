@@ -4,10 +4,6 @@
 
 # 👐 Hello everyone!
 
----
-
-### 👨‍💻 About me:
-
 My name is Yana and I am a beginner manual tester. Here I will share my acquired skills in web and mobile application testing.
 Welcome collaboration 👌 and exchange of new skills ☺️
 
