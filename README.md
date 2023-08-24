@@ -66,6 +66,17 @@ Welcome collaboration 👌 and exchange of new skills ☺️
 </div>
 
 ---
+ 📁 🐜Test Artifacts
+
+- [Checklists](https://github.com/yanabystrova/Cheklists.git)
+- [Test-Cases](https://github.com/yanabystrova/Test-Cases.git)
+- [Bug-Reports](https://github.com/yanabystrova/Bug-Reports.git)
+- [SQL](https://github.com/yanabystrova/SQL.git)
+- [Postman Collections](https://github.com/yanabystrova/Postman.git)
+- [Test plans/Reports on the conducted testing ](https://github.com/yanabystrova/Test-plans_Reports-of-testing.git)
+- [Bash commands](https://github.com/yanabystrova/Bash.git)
+- [Git](https://github.com/yanabystrova/Yanabystrova.git)
+
 
 ### 💻 Completed training courses:
 
