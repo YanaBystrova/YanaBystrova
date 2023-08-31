@@ -15,7 +15,7 @@ Welcome collaboration 👌 and exchange of new skills ☺️
 - 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-@yanabystrova-blue?style=flat&logo=LinkedIn&logoColor=white)](https://github.com/yanabystrova) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:Yanabyst24@gmail.com)
 
 ---
-## My CV 📄 [Yana Bystrova CV](https://github.com/yanabystrova/Yanabystrova/files/12489683/CV.eng.pdf)
+## My CV 📄 [Yana Bystrova CV](https://drive.google.com/file/d/1awx5o25V1OrHsWYS0mqU8Oae9fZyrWLB/view?usp=sharing)
 )
 
 
